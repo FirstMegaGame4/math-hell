@@ -7,7 +7,7 @@ import org.slf4j.LoggerFactory;
 
 public class MathHell implements ModInitializer {
 
-	public static final Logger LOGGER = LoggerFactory.getLogger("math-hell");
+	public static final Logger LOGGER = LoggerFactory.getLogger("math_hell");
 
 	@Override
 	public void onInitialize() {
