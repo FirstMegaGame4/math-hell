@@ -25,7 +25,7 @@ mmodding {
 	configureFabricModJson {
 		name = "Math Hell"
 		namespace = "math_hell"
-		license = "Code: LGPL-3.0\\nAssets: All Rights Reserved"
+		license = "LGPL-3.0"
 		description = "Wrong math destroys the world."
 		icon = "assets/math_hell/icon.png"
 		addAuthor("FirstMegaGame4")
