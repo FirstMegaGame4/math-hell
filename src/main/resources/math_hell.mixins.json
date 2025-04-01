@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "fr.firstmegagame4.mh.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "MatrixStackMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": []
+}
